@@ -1,0 +1,18 @@
+I have coded for binary search in C and Python. 
+
+The real-time example was Implementing a phone book search, where users can search for a contact by name. The contact list should be sorted by name, and your binary search algorithm should find the contact quickly.
+
+The names in the phone book will be in ascending order, and they can be found by using the binary search, which will reduce the search time compared to other search methods.
+I have given a name in alphabetical order, which will find the name if the name is present in the PHONE_BOOK.
+
+
+I have used a first language, Python, which uses CPython for interpretation to balance ease of development and runtime performance.
+I have used a second language, C, which uses GCC for compilation and does not require an interpreter.
+
+# c1 Dynamic scope or static scope -
+The programming language will use the static scope. 
+
+# c2 parameter passing methods -> In Python, I have called the function by passing the value(call by value), but in C, I have used the call by value and call by reference.
+# c3 garbage collector -> Python's garbage collector deallocates memory when objects are no longer referenced. The garbage value is handled by itself in the python. But in the C, we must do it by providing the free function. It will free the garbage values.
+# c4 interpreter vs compiler -> CPython for interpretation and compilation to balance ease of development and runtime performance and  C, which uses GCC for compilation and does not require an interpreter.
+# c5 object-oriented or functional programming paradigm -> both codes I have used use the function to find the name. The function binary_search will discover the key element. 
